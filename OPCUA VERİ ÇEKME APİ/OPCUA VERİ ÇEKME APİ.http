@@ -1,0 +1,6 @@
+@OPCUA_VERİ_ÇEKME_APİ_HostAddress = http://localhost:5117
+
+GET {{OPCUA_VERİ_ÇEKME_APİ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
